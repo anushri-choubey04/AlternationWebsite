@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../FrontendPart/public/FrontPage.png" width="900">
+ <img src="https://raw.githubusercontent.com/anushri-choubey04/AlternationWebsite/main/FrontendPart/public/FrontPage.png" alt="Mr Finisher Preview" width="900">
 
 </p>
 
