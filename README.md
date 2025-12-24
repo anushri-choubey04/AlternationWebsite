@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anushri-choubey04/AlternateWebsite/FrontendPart/public/FrontPage.png" width="900">
+  <img src="./FrontendPart/public/FrontPage.png" width="900">
 
 </p>
 
