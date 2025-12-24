@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AlterationWebsite/FrontendPart/public/FrontPage.png" alt="Mr Finisher Preview" width="900">
+  <img src="./public/FrontPage.png" alt="Mr Finisher Preview" width="900">
 </p>
 
 <h1 align="center">Mr Finisher – Tailoring & Alteration Platform</h1>
