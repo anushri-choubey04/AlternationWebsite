@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./FrontendPart/public/FrontPage.png" width="900">
+  <img src="./Alteration/FrontendPart/public/FrontPage.png" width="900">
 
 </p>
 
