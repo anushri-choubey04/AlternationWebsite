@@ -9,7 +9,7 @@ A full-stack tailoring service platform with React frontend and Node.js backend.
 </p>
 
 <p align="center">
- 🔗 Live Frontend: https://anushri-choubey04.github.io/Frontend/  
+ 🔗 Live Frontend: https://anushri-choubey04.github.io/FrontendPart/  
 </p>
 
 ---
